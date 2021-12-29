@@ -1,4 +1,4 @@
 # hello-world
-ideas and tests \n
-asdhwjd awdaksjbd awdjkahsd \n
-asdha asdh  \n
+ideas and tests \
+asdhwjd awdaksjbd awdjkahsd \
+asdha asdh  \
